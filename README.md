@@ -1,27 +1,14 @@
 # 96110
 源码来自：[BlueSkyXN/96110: 反诈中心想你了，喜欢我反诈中心吗 (github.com)](https://github.com/BlueSkyXN/96110)
 
-## 更新计划
+## 更新
 
-1. 香港ICAC版
-2. 日本警视厅版
+2022.10.21 KCSC 韩国广播通信审议委员会
 
-# 体验优化版和模仿版反诈中心提醒
-
-中国电信CT https://96110.jp/CN/CT
-
-中国联通CU https://96110.jp/CN/CU
-
-中国移动CM https://96110.jp/CN/CM
-
-美国联邦调查局FBI https://96110.jp/US/FBI
-
-CloudFlare https://96110.jp/US/CF
-
-韩国国科搜 [https://96110.jp/KR/NFS](https://96110.jp/KR/NFS/)
+https://96110.jp/KR/NFS/)
 
 
-# 体验原版反诈中心提醒请点击
+# 体验原版反诈中心提醒点击
 
 中国电信（原版） https://96110.pages.dev/Backup/ChinaTelecom/CT
 
