@@ -1,20 +1,16 @@
 # 96110
-源码来自：[BlueSkyXN/96110: 反诈中心想你了，喜欢我反诈中心吗 (github.com)](https://github.com/BlueSkyXN/96110)
+本项目存在的意义，是为了记住这些东西做过的恶。互联网不是没有记忆的。
 
+国内运营商反诈源码来自：[BlueSkyXN/96110: 反诈中心想你了，喜欢我反诈中心吗 (github.com)](https://github.com/BlueSkyXN/96110)
+国外源码均来自各自源网站。
 ## 更新
 
 2022.10.21 KCSC 韩国广播通信审议委员会
 
 https://96110.jp/KR/NFS/
 
-
-# 体验原版反诈中心提醒点击
-
-中国电信（原版） https://96110.pages.dev/Backup/ChinaTelecom/CT
-
-中国联通（原版） https://96110.pages.dev/Backup/ChinaUnicom/CU
-
-中国移动（原版） https://96110.pages.dev/Backup/ChinaMobile/CM
+2023.06.22 kominfo 印尼运营商反诈页面
+https://96110.jp/ID/KOMINFO/
 
 ## 取材源站
 
