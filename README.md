@@ -4,9 +4,9 @@
 
 ## 访问链接
 
-国内线路：96110.amex.my.id
+国内（CacheFly CDN）线路：96110.amex.my.id
 
-国外线路：911.amex.my.id
+国外（Cloudflare）线路：911.amex.my.id
 
 例：96110/911.amex.my.id/KR/KCSC/ 则代表 KCSC 韩国广播通信审议委员会 
 
