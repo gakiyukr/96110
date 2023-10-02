@@ -1,22 +1,13 @@
 # 96110
 国内运营商反诈源码来自：[BlueSkyXN/96110: 反诈中心想你了，喜欢我反诈中心吗 (github.com)](https://github.com/BlueSkyXN/96110)
+
 国外源码均来自各自源网站。
 
 ## 访问链接
 
-国内（CacheFly CDN）线路：96110.amex.my.id
+911.amex.my.id
 
-国外（Cloudflare）线路：911.amex.my.id
-
-例：96110/911.amex.my.id/KR/KCSC/ 则代表 KCSC 韩国广播通信审议委员会 
-
-## 更新
-
-2022.10.21 KCSC 韩国广播通信审议委员会
-
-2023.06.22 kominfo 印尼运营商反诈页面
-
-2023.06.29 新增多条线路
+例：911.amex.my.id/KR/KCSC/ 则代表 KCSC 韩国广播通信审议委员会 
 
 ## 取材源站
 
